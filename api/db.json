@@ -9,6 +9,29 @@
       "title": "other stream",
       "description": "one more stream",
       "id": 2
+    },
+    {
+      "title": "hi",
+      "description": "hi",
+      "userId": "110208861154743767401",
+      "id": 3
+    },
+    {
+      "title": "programmatic navigation",
+      "description": "refactored ",
+      "id": 4
+    },
+    {
+      "title": "test",
+      "description": "test",
+      "userId": "110208861154743767401",
+      "id": 5
+    },
+    {
+      "title": "Stream Refactor Component",
+      "description": "Should automatically update",
+      "userId": null,
+      "id": 6
     }
   ]
 }
